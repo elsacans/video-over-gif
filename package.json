@@ -16,6 +16,7 @@
     "ffmpeg": "^0.0.4"
   },
   "devDependencies": {
-    "fluent": "^0.13.0"
+    "fluent": "^0.13.0",
+    "fluent-ffmpeg": "^2.1.3"
   }
 }
